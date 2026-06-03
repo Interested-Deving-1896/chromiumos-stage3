@@ -1,11 +1,75 @@
-# ChromiumOS Stage3
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# chromiumos-stage3
 
-## Overview
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/chromiumos-stage3)
 
-This project consist in creating a ChromiumOS Stage3 tarball that will be used to build brunch (it deprecates the Brunch toolchain that was difficult to maintain)
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-So that's all there is ?
-Not necessarily, it notably allows to create a [gentoo prefix][gentoo-prefix] that can be used either in Brunch or ChromeOS developer mode.
+## Architecture
 
-<!-- Outbound Links -->
-[gentoo-prefix]: https://github.com/sebanc/chromeos-gentoo-prefix
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
+
+## Install
+
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/chromiumos-stage3.git
+cd chromiumos-stage3
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/chromiumos-stage3`](https://github.com/Interested-Deving-1896/chromiumos-stage3) and mirrored through:
+
+```
+Interested-Deving-1896/chromiumos-stage3  ──►  OpenOS-Project-OSP/chromiumos-stage3  ──►  OpenOS-Project-Ecosystem-OOC/chromiumos-stage3
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[GPL-3.0](https://github.com/Interested-Deving-1896/chromiumos-stage3/blob/main/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
